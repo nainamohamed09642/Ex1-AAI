@@ -1,14 +1,11 @@
 <H3> Name: NAINA MOHAMED Z </H3>
 <H3>Register No. 212223230131</H3>
-
-
 <H3>Experiment 1 : Implementation of Bayesian Networks</H3>
 
 ## Aim:
 To create a bayesian Network for the given dataset in Python.
     
 ## Algorithm:
-
 ### Step 1:
 Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController.
 ### Step 2:
@@ -37,11 +34,6 @@ Set options for the graph appearance.
 Generate the graph using networkx.
 ### Step 14:
 Update margins and display the graph using matplotlib.pyplot.
-
-### SUDHAKAR K
-### 212222240107
-
-
 ## Program:
 ### Import the necessary Libaries
 ```
@@ -141,10 +133,8 @@ ax.margins(0.10)
 plt.axis("off")
 plt.show()
 ```
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/309bc6c9-207e-4b76-87ef-4e64eaf6f87a)
-
 ## Result:
 Thus a Bayesian Network is generated using Python.
 
